@@ -2,7 +2,7 @@ This project is a fork aimed at continuing to upgrade and maintain original djan
 
 You can install the package via pip: :: 
 
-    pip install -e git+https://github.com/pawelmarkowski/cmsplugin-filer@2.0.2#egg=cmsplugin-filer
+    pip install -e git+https://github.com/IndustriaTech/cmsplugin-filer@2.0.2#egg=cmsplugin-filer
 
 Warning: :: 
 
